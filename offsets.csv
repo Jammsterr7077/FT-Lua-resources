@@ -1,1 +1,15 @@
-
+type,key,value
+offset,m_szLastPlaceName,0x17E4
+offset,m_iConnected,0x6E4
+offset,m_pGameSceneNode,0x330
+offset,bone_array_offset,0x210
+offset,dwEntityList,0x1A1F670
+offset,m_MoveType,0x525
+offset,m_fireCount,0x1870
+offset,m_firePositions,0xF30
+offset,m_aimPunchAngle,0x180C
+signature,findHudSig,87 40 17 98 83 48 27 ? 83 40 CE CB
+signature,chatPrintSig,5A ? ? ? ? FB 39 FC ? 08 ? ? ? ? FA 31 73 ? 5A B2
+signature,manager_addr,DF 1C 9A ? ? ? ? DF 1A C2 ? F1 1E D3 B3 97
+signature,trace_shape_addr,88 49 9C E4 ? 88 49 8C E4 ? 95 97 C0
+signature,trace_filter_addr,FC ? ? ? ? 5C 95 5F ? ? ? ? ? 5C 99 11 ? ? ? ? 14
