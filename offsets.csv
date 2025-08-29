@@ -1,5 +1,5 @@
 type,key,value
-offset,m_szLastPlaceName,0x170C
+offset,m_szLastPlaceName,0x16CC
 offset,m_iConnected,0x6E4
 offset,m_pGameSceneNode,0x330
 offset,bone_array_offset,0x210
