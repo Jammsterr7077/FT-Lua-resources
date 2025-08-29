@@ -7,6 +7,7 @@ offset,dwEntityList,0x1D0FE08
 offset,m_MoveType,0x525
 offset,m_fireCount,0x1870
 offset,m_firePositions,0xF30
+offset,m_nFireLifetime,0x1878
 offset,m_aimPunchAngle,0x180C
 signature,findHudSig,87 40 17 98 83 48 27 ? 83 40 CE CB
 signature,chatPrintSig,5A ? ? ? ? FB 39 FC ? 08 ? ? ? ? FA 31 73 ? 5A B2
