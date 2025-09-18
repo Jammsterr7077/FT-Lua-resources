@@ -14,7 +14,7 @@ offset,m_vInitialVelocity,0x13DC
 offset,m_vecAbsOrigin,0xD0
 signature,findHudSig,87 40 17 98 83 48 27 ? 83 40 CE CB
 signature,chatPrintSig,5A ? ? ? ? FB 39 FC ? 08 ? ? ? ? FA 31 73 ? 5A B2
-signature,manager_addr,DF 1C 9A ? ? ? ? DF 1A C2 ? F1 1E D3 B3 97
+signature,manager_addr,12 D1 57 ? ? ? ? 12 D7 0F ? D3 1E 7E ? 12 D7 1F ? 12 D3 1E 7E ? 12 D7 1E 7E ? 1E D3 36 7E 5A
 signature,trace_shape_addr,88 49 9C E4 ? 88 49 8C E4 ? 95 97 C0
 signature,trace_filter_addr,FC ? ? ? ? 5C 95 5F ? ? ? ? ? 5C 99 11 ? ? ? ? 14
 signature,fnGetLobbyPtr,11 ? ? ? ? BD 72 F4 ? ? ? ? B1 74 EC F9
