@@ -8,7 +8,7 @@ offset,m_MoveType,0x525
 offset,m_fireCount,0x1860
 offset,m_firePositions,0xF20
 offset,m_nFireLifetime,0x1868
-offset,m_aimPunchAngle,0x16FC
+offset,m_aimPunchAngle,0x16E4
 offset,m_vInitialPosition,0x13B8
 offset,m_vInitialVelocity,0x13C4
 offset,m_vecAbsOrigin,0xD0
